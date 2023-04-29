@@ -1,6 +1,6 @@
-### Olá eu sou a Eng. Rosânia N. Marques 👋
+### Olá eu sou a Engª. Rosânia N. Marques 👋
 
-- 🔭 Hoje trabalho com Front-end, Back-End, Cybersecurity e gamers
+- 🔭 Hoje trabalho com Front-end, Back-End, Cybersecurity e Gamers
 - 🌱 Estou constamente me atualizando como #Dev
 - 👯 Desejo fazer parte do time da empresa oferecendo o
 melhor. Sou uma pessoa muito dedicada e comprometida
